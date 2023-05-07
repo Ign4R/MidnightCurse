@@ -1,3 +1,3 @@
-# Project_T
+# MidnightCurse
 
 Developed with Unreal Engine 4
